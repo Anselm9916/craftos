@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/Anselm9916/craftos/main/install.lua
+wget run https://raw.githubusercontent.com/Anselm9916/craftos/main/install.lua
